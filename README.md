@@ -18,7 +18,7 @@ Quisque egestas diam in arcu cursus. Tincidunt augue interdum velit euismod in p
 ### Birds
 Look at the ==birds=={zoomto=252,2400,1359,1156}!
 
-### {.right .clear} 
+### {.right}
 
 .ve-media https://iiif.lib.harvard.edu/manifests/ids:437529918
 
@@ -26,7 +26,7 @@ Look at the ==birds=={zoomto=252,2400,1359,1156}!
     - https://iiif.lib.harvard.edu/manifests/ids:437529918 
     - https://iiif.lib.harvard.edu/manifests/ids:481188826 region=282,2360,1150,1100 
 
-###  {.clear}
+### {.right}
 Look at the ==deer=={zoomto=2084,2484,792,1157}!
 .ve-media https://iiif.lib.harvard.edu/manifests/ids:481188194
 
