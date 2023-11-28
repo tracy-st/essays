@@ -16,12 +16,14 @@ Quisque egestas diam in arcu cursus. Tincidunt augue interdum velit euismod in p
 {enter=zoomto=225,2371,1360,1156}
 
 ### Birds
-Look at the ==birds=={zoomto=252,2400,1359,1156}!
+Look at the ==birds=={zoomto=236,2406,1359,1156}!
 
 ### {.right}
 
+### Detail Slide
 .ve-media https://iiif.lib.harvard.edu/manifests/ids:437529918
 
+### Compare
 .ve-media
     - https://iiif.lib.harvard.edu/manifests/ids:437529918 
     - https://iiif.lib.harvard.edu/manifests/ids:481188826 region=282,2360,1150,1100 
