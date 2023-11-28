@@ -1,4 +1,4 @@
-.ve-media https://iiif.lib.harvard.edu/manifests/ids:481188826 left base=juncture-digital/juncture/examples/hello-juncture sticky
+.ve-media https://iiif.lib.harvard.edu/manifests/ids:481188826  height=500px left base=juncture-digital/juncture/examples/hello-juncture sticky
 
 ### {.show-active}
 
@@ -10,13 +10,20 @@ A pellentesque sit amet porttitor eget dolor. Nascetur ridiculus mus mauris vita
 
 Facilisis leo vel fringilla est ullamcorper eget. Suspendisse ultrices gravida dictum fusce. Commodo ullamcorper a lacus vestibulum sed arcu non. Suscipit adipiscing bibendum est ultricies integer quis auctor. Dictumst vestibulum rhoncus est pellentesque elit ullamcorper. Massa tincidunt nunc pulvinar sapien et ligula ullamcorper. Id ornare arcu odio ut sem nulla pharetra diam. Accumsan sit amet nulla facilisi morbi tempus iaculis urna id. At erat pellentesque adipiscing commodo elit at imperdiet dui. Eget nullam non nisi est sit amet facilisis magna.
 
+
+### 
 Quisque egestas diam in arcu cursus. Tincidunt augue interdum velit euismod in pellentesque massa placerat. Augue interdum velit euismod in pellentesque massa. Lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare. Id diam maecenas ultricies mi eget mauris. Cras tincidunt lobortis feugiat vivamus at augue. Magna sit amet purus gravida quis blandit turpis cursus. Urna nunc id cursus metus aliquam eleifend mi in. Nunc vel risus commodo viverra. Mauris nunc congue nisi vitae. Consequat ac felis donec et odio pellentesque diam. Sem fringilla ut morbi tincidunt augue interdum velit euismod in. Aliquam sem et tortor consequat id porta nibh venenatis. Et ultrices neque ornare aenean euismod. Tempor nec feugiat nisl pretium fusce id velit ut. Amet massa vitae tortor condimentum lacinia quis vel. Porta non pulvinar neque laoreet suspendisse interdum. Pharetra magna ac placerat vestibulum lectus mauris ultrices. Lectus mauris ultrices eros in cursus turpis massa tincidunt.
+{enter=zoomto=225,2371,1360,1156}
 
-### {enter=zoomto=245,1562,1583,2312}
-Look at the ==birds=={zoomto=245,1562,1583,2312}!
+### Birds
+Look at the ==birds=={zoomto=252,2400,1359,1156}!
+### {.clear} 
 
-### {.clear}
 .ve-media https://iiif.lib.harvard.edu/manifests/ids:437529918
+
+.ve-media
+    - https://iiif.lib.harvard.edu/manifests/ids:437529918 
+    - https://iiif.lib.harvard.edu/manifests/ids:481188826 region=282,2360,1150,1100
 
 ###  {.clear}
 Look at the ==deer=={zoomto=2084,2484,792,1157}!
