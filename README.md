@@ -26,8 +26,8 @@ Quisque egestas diam in arcu cursus. Tincidunt augue interdum velit euismod in p
 ## 
 .ve-media https://iiif.lib.harvard.edu/manifests/ids:481188826 left sticky
 
-#### ==Deer=={zoomto=2212,2825,575,704}
-Quisque egestas diam in arcu cursus. Tincidunt augue interdum velit euismod in pellentesque massa placerat. Augue interdum velit euismod in pellentesque massa. Lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare. Id diam maecenas ultricies mi eget mauris. {enter=zoomto:2212,2825,575,704}
+#### ==Deer=={zoomto:2212,2825,575,704}
+Quisque egestas diam in arcu cursus. Tincidunt augue interdum velit euismod in pellentesque massa placerat. Augue interdum velit euismod in pellentesque massa. Lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare. Id diam maecenas ultricies mi eget mauris. 
 
 #### Detail Slide
 .ve-media https://iiif.lib.harvard.edu/manifests/ids:481188194 width=100%
