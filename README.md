@@ -1,5 +1,5 @@
 ##
-.ve-media https://iiif.lib.harvard.edu/manifests/ids:481188826 height=700px left sticky
+.ve-media https://iiif.lib.harvard.edu/manifests/ids:481188826 height=700px left sticky id=main
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Proin sagittis nisl rhoncus mattis rhoncus. In nibh mauris cursus mattis molestie a iaculis. Dictum varius duis at consectetur lorem donec. Vulputate ut pharetra sit amet aliquam. Et netus et malesuada fames ac turpis egestas. Lorem sed risus ultricies tristique nulla aliquet. Fames ac turpis egestas integer. Id eu nisl nunc mi ipsum faucibus vitae. Adipiscing elit pellentesque habitant morbi tristique senectus et netus. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare. Mauris nunc congue nisi vitae. Purus ut faucibus pulvinar elementum integer. Ultrices vitae auctor eu augue ut. Mauris a diam maecenas sed.
 
@@ -12,7 +12,7 @@ Mauris sit amet massa vitae tortor condimentum. Tristique et egestas quis ipsum.
 ## 
 .ve-media https://iiif.lib.harvard.edu/manifests/ids:481188826 height=700px left sticky
 
-#### ==Birds=={zoomto=282,2360,1150,1100,7de8e354}
+#### ==Birds=={zoomto:282,2360,1150,1100,7de8e354}
 Quisque egestas diam in arcu cursus. Tincidunt augue interdum velit euismod in pellentesque massa placerat. Augue interdum velit euismod in pellentesque massa. Lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare. Id diam maecenas ultricies mi eget mauris.
 {enter=zoomto:282,2360,1150,1100}
 
@@ -27,8 +27,7 @@ Quisque egestas diam in arcu cursus. Tincidunt augue interdum velit euismod in p
 .ve-media https://iiif.lib.harvard.edu/manifests/ids:481188826 height=700px left sticky
 
 #### ==Deer=={zoomto=2212,2825,575,704}
-Quisque egestas diam in arcu cursus. Tincidunt augue interdum velit euismod in pellentesque massa placerat. Augue interdum velit euismod in pellentesque massa. Lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare. Id diam maecenas ultricies mi eget mauris.
-{enter=zoomto:282,2360,1150,1100}
+Quisque egestas diam in arcu cursus. Tincidunt augue interdum velit euismod in pellentesque massa placerat. Augue interdum velit euismod in pellentesque massa. Lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare. Id diam maecenas ultricies mi eget mauris. {enter=zoomto:2212,2825,575,704}
 
 #### Detail Slide
 .ve-media https://iiif.lib.harvard.edu/manifests/ids:481188194 width=100%
