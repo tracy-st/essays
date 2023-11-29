@@ -17,7 +17,7 @@ Quisque egestas diam in arcu cursus. Tincidunt augue interdum velit euismod in p
 {enter=zoomto:282,2360,1150,1100}
 
 #### Detail Slide
-.ve-media https://iiif.lib.harvard.edu/manifests/ids:437529918 width=100% right
+.ve-media https://iiif.lib.harvard.edu/manifests/ids:437529918 full
 
 .ve-media
     - https://iiif.lib.harvard.edu/manifests/ids:437529918 
