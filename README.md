@@ -1,3 +1,5 @@
+.ve-style ./custom.css
+
 ##
 .ve-media https://iiif.lib.harvard.edu/manifests/ids:481188826 left sticky
 
